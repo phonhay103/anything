@@ -1,0 +1,1151 @@
+<script language="JavaScript">
+    window.onload = function() {
+        document.addEventListener("contextmenu", function(e) {
+            e.preventDefault();
+        }, false);
+        document.addEventListener("keydown", function(e) {
+            //document.onkeydown = function(e) {
+            // "I" key
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+                disabledEvent(e);
+            }
+            // "J" key
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+                disabledEvent(e);
+            }
+            // "S" key + macOS
+            if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+                disabledEvent(e);
+            }
+            // "U" key
+            if (e.ctrlKey && e.keyCode == 85) {
+                disabledEvent(e);
+            }
+            // "F12" key
+            if (event.keyCode == 123) {
+                disabledEvent(e);
+            }
+        }, false);
+
+        function disabledEvent(e) {
+            if (e.stopPropagation) {
+                e.stopPropagation();
+            } else if (window.event) {
+                window.event.cancelBubble = true;
+            }
+            e.preventDefault();
+            return false;
+        }
+    };
+</script>
+
+<!DOCTYPE html>
+<html lang='vi'>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="google" content="notranslate" />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="">
+	<meta name="description" content="Đoàn TNCS Hồ Chí Minh thành phố Hà Nội">
+	<meta name="author" content="IGF TEAM">
+	<meta property="og:author" content='IGF JSC' />
+	<meta property="og:locale" content='vi_VN'/>
+	<meta property="og:title" content="Tuổi trẻ Hà Nội"/>
+	<meta property="og:keywords" content='' />
+	<meta property='og:description' content='Đoàn TNCS Hồ Chí Minh thành phố Hà Nội' />
+	<meta property="og:image" content=""/>
+	<meta property="fb:admins" content="100004363125235"/>
+    <meta name="google-signin-client_id" content="699560183897-o67n49pe6asgl0trutr4rknj09v6ljrm.apps.googleusercontent.com">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<title>Tuổi trẻ Hà Nội</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:200,200i,400,400i,500,500i,700,700i,900,900i&amp;subset=vietnamese" rel="stylesheet">
+	<link rel="shortcut icon" href="http://tuoitrehanoi.com/images/logo-ds.png" type="image/x-icon">
+	<link rel="apple-touch-icon" href="http://tuoitrehanoi.com/images/logo-ds.png" type="image/x-icon">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://tuoitrehanoi.com/images/logo-ds.png" type="image/x-icon">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://tuoitrehanoi.com/images/logo-ds.png" type="image/x-icon">
+	<link href="http://tuoitrehanoi.com/templates/default/bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" media="all">
+	<link href="http://tuoitrehanoi.com/templates/default/css/font-awesome.css" type="text/css" rel="stylesheet" media="all">
+	<link href="http://tuoitrehanoi.com/templates/default/css/bootstrap-social.css" type="text/css" rel="stylesheet" media="all">
+	<link href="http://tuoitrehanoi.com/templates/default/css/style.css?v=2" type="text/css" rel="stylesheet" media="all">
+	<link href="http://tuoitrehanoi.com/templates/default/css/style-responsive.css?v=2" type="text/css" rel="stylesheet" media="all">
+    <link href="http://tuoitrehanoi.com/templates/default/css/drop-menu.css?v=2" rel="stylesheet">
+	<script src='http://tuoitrehanoi.com/js/jquery.min.js'></script>
+    <script src='http://tuoitrehanoi.com/templates/default/bootstrap/js/bootstrap.min.js'></script>
+    <script src='http://tuoitrehanoi.com/js/gfscript.js'></script>
+    <script src='http://tuoitrehanoi.com/templates/default/js/main.js'></script>
+</head>
+<body>
+<div class="body">
+        <header id="site-header">
+        <div class="nav-top">
+            <div class="container">
+                <a  href="http://tuoitrehanoi.com/" style="" class="logo-page"> <img src="http://tuoitrehanoi.com/templates/default/images/logo-ds.png" height="49px" width="45"></a>
+                <div id="navbar" class="navbar-collapse collapse row">
+                    					<ul class="nav navbar-nav">
+					<li class="  "><a href="http://tuoitrehanoi.com/" title="Trang chủ"><span>Trang chủ</span></a></li>
+					<li class="  "><a href="http://thanhdoanhanoi.gov.vn" title="TIN TỨC"><span>TIN TỨC</span></a></li>
+					<li class="  "><a href="http://tuoitrehanoi.com/tin-tuc/the-le-thi-trac-nghiem-truc-tuyen.html" title="Thể lệ cuộc thi"><span>Thể lệ cuộc thi</span></a></li>
+					</ul>
+                </div>
+
+                <a class="home-mb" style="float: left; margin-top: 10px; color: #fff" href="http://tuoitrehanoi.com/">Trang chủ</a>
+                <ul class="box-btn-login box-user">
+                                            <li>
+                            <div class="btn-group">
+                                <button type="button" class=" btn-drop dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a class="acc_name" href="">
+                                                                                <img src="http://tuoitrehanoi.com/images/avatar_default.png" alt="" class="icon-user">
+                                        <span class="name-user">zxcvbn3</span>
+                                        <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                                    </a>
+                                </button>
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <span class="sub-drop"></span>
+                                    <a class="dropdown-item last" href="http://tuoitrehanoi.com/lich-su-hoat-dong/"><i class="fa fa-refresh"></i> Lịch sử làm bài thi</a>
+                                    <a class="dropdown-item last" href="http://tuoitrehanoi.com/thong-tin-ca-nhan/"><i class="fa fa-user"></i> Thông tin cá nhân</a>
+                                    <a class="dropdown-item last" href="http://tuoitrehanoi.com/doi-mat-khau/"><i class="fa fa-refresh"></i> Đổi mật khẩu</a>
+                                    <span class="dropdown-item last" id='nav_logout'><i class="fa fa-power-off"></i> Đăng xuất</span>
+                                </div>
+                            </div>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </header>
+            <div class="page-content detail-content">
+ 
+        <div class="box-item info-test">
+            <div class="container">
+                <h3 class="title-test">Tuần 9 - Thi tìm hiểu về lịch sử 90 năm Đảng bộ thành phố  </h3>
+                <div class="">
+                    Bắt đầu: Ngày <span class="color">11/05/2020</span> Đến <span class="color">17/05/2020</span>
+                </div>
+                <ul class="list-inline">
+                    <li>Số câu: 25</li>
+                    <li>Thời gian: 10 Phút</li>
+                    <li>Thang điểm: 100đ</li>
+                </ul>
+                <div class="box-countdown">Còn lại: <span id="countdown"></span></div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+                        <div class="container">
+                <div class="box-title-test">
+
+                    
+                            
+
+                                    </div>
+                <div class="box-test" id="respon">
+                                            <form class="list-faq" action="" id="frm-quiz">
+                            <input value="126-126" name="txt_testid" type="hidden">
+                            <input value="nyywiwZ31N8FNbeMV6" name="txttoken" type="hidden">
+                            <div class="box-group">
+                                <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false" data-wrap="false">
+                                    <div class="carousel-inner">
+                                                                                    <div class="item active">
+                                                <h4>Câu 1: Để chuẩn bị tốt cho việc tiếp quản Thủ
+đô, Hội đồng Chính phủ đã thành lập cơ quan nào?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3689"  name="answer-253" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Ủy ban Nhân dân</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3692"  name="answer-253" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Ủy ban Quân chính thành phố Hà Nội</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3690"  name="answer-253" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Ủy ban lâm thời hành chính</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3691"  name="answer-253" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Ủy ban Thành phố</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 2: Các nhiệm vụ công tác khoa học - kỹ thuật và văn hóa xã hội
+được đề ra tại Đại hội Đại biểu Đảng bộ lần thứ X gồm?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4016"  name="answer-334" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Công tác giáo dục, y tế, thể dục thể thao, văn hóa văn nghệ</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4014"  name="answer-334" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Công tác văn hóa, báo chí, văn nghệ</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4013"  name="answer-334" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Công tác giáo dục, Công tác nâng cao phong trào thể dục thể thao</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4015"  name="answer-334" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Công tác khoa học, giáo dục, sức khỏe và gia đình</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 3: Ủy ban quân sự cách mạng Hà Nội được thành lập thời gian nào? 
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3474"  name="answer-199" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Ngày 16-8-1945</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3475"  name="answer-199" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Ngày 17-8-1945</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3476"  name="answer-199" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Ngày 18-8-1945</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3473"  name="answer-199" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Ngày 15-8-1945</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 4: Đảng bộ Hà Nội được thành lập có ý
+nghĩa như thế nào?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3396"  name="answer-179" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Cả 3 phương án</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3394"  name="answer-179" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Sự kiện này gắn bó chặt chẽ và là kết quả trực tiếp của phong trào yêu nước, phong trào công nhân ở Hà Nội</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3393"  name="answer-179" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Là một sự kiện lịch sử có ý nghĩa to lớn đối với phong trào cách mạng của nhân dân Hà Nội.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3395"  name="answer-179" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Biểu hiện sự lớn mạnh của phong trào cách mạng của nhân dân Thủ đô và đánh dấu một thời kỳ đấu tranh mới của Hà Nội</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 5: Chi bộ cộng sản
+đầu tiên ở tỉnh Sơn Tây được thành lập ở đâu?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3428"  name="answer-187" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Đa Phúc (Sơn Tây) </span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3425"  name="answer-187" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Tam Hiệp (Phúc Thọ)</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3426"  name="answer-187" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Ngọc Tảo (Phúc Thọ)</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3427"  name="answer-187" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Thanh Mạc (Quốc Oai)</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 6: Nhiệm vụ nào sau đây không thuộc nhóm
+nhiệm vụ được đề ra trong 2 năm (1961-1962) tại Đại hội Đảng bộ Thành phố lần thứ
+II?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3772"  name="answer-273" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Chăm lo cải thiện đời sống vật chất và tinh thần của nhân dân</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3771"  name="answer-273" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Ra sức phát triển giáo dục</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3769"  name="answer-273" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Phát triển kinh tế, đặc biệt là dịch vụ</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3770"  name="answer-273" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Lấy sản xuất công nghiệp (gồm cả tiểu thủ công nghiệp) làm trọng tâm</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 7: "Chương trình Phát triển dịch vụ trình độ, chất lượng cao giai đoạn 2006-2010" của Thành ủy Hà Nội khóa XIV được ban hành vào ngày nào?</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4425"  name="answer-437" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>04/08/2005</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4427"  name="answer-437" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>08/04/2006</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4426"  name="answer-437" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>04/08/2006</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4428"  name="answer-437" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>08/04/2005</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 8: Tư tưởng chỉ đạo phát triển trong những năm tới được nêu tại Đại hội Đảng bộ Thành phô lần thứ XIV là?</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4298"  name="answer-405" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Tập trung mọi nguồn lực, đặc biệt là nguồn lực xã hội hóa</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4299"  name="answer-405" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Chú trọng công tác xây dựng và phát triển các đoàn viên trong các đoàn thể</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4297"  name="answer-405" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Tiếp tục đổi mới mạnh mẽ, toàn diện, đồng bộ, năng động sáng tạo</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4300"  name="answer-405" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Tranh thủ nguồn vốn ODA để phát triển cơ sở hạ tầng</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 9: Thành ủy Hà Nội chính thức được kiện toàn tổ chức ở địa điểm nào tại Hà Nội?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3386"  name="answer-177" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Nhà số 177 phố Hàng Bông</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3388"  name="answer-177" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Nhà số 117 phố Hàng Bông</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3387"  name="answer-177" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Nhà số 771 phố Hàng Bông</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3385"  name="answer-177" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Nhà số 717 phố Hàng Bông</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 10: Vào ngày 18/08/1945, lực lượng vũ trang
+do Đội Công nhân xung phong dẫn đầu có nhiệm vụ chiếm đóng những cơ sở nào?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3518"  name="answer-210" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Trại Bảo an binh, Ty Liêm phóng Bắc kỳ</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3519"  name="answer-210" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Sở Cánh sát</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3520"  name="answer-210" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Phủ Khâm sai, Tòa Thị chính, Kho bạc, Bưu điện và Sở Cảnh sát </span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3517"  name="answer-210" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Phủ Khâm sai, Kho bạc, Bưu điện</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 11: Tại Đại hội Đại biểu Đảng bộ Thành phố
+lần thứ V, Đại hội đã nêu một trong những nhiệm vụ của Thủ đô trong gian đoạn 1971-1973 là?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3823"  name="answer-286" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Nhiệm vụ khôi phục và phát triển kinh tế thị trường định hướng xã hội chủ nghĩa</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3822"  name="answer-286" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Nhiệm vụ chống Mỹ, cứu nước</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3821"  name="answer-286" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Trước mặt phải ra sức thực hiện chiến lược Đại đoàn kết dân tộc</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3824"  name="answer-286" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Tăng cường sức chiến đấu để bảo vệ vững chắc Thủ đô, đánh bại mọi âm mưu, thủ đoạn chiến tranh phá hoại của đế quốc Mỹ.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 12: Nội dung nào dưới đây không thuộc mục tiêu, nhiệm vụ, giải pháp được nêu tại chương trình số 05-CTr/TU về phát triển kinh tế ngoại thành và từng bước hiện đại hóa nông thôn giai đoạn 2006-2010?	</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4394"  name="answer-429" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Đẩy nhanh tốc độ tăng trưởng và chuyển dịch cơ cấu kinh tế nông thôn</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4393"  name="answer-429" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Phát triển đô thị gắn với xây dựng nông thôn</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4395"  name="answer-429" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Nâng cao chất lượng cuộc sống và thu nhập của nhân dân ngoại thành</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4396"  name="answer-429" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Đầu tư xây dựng kết cấu hạ tầng nông thôn theo hướng hiện đại</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 13: Nhiệm vụ của Thủ đô 2 năm 1961-1962
+được xác định tại Đại hội Đảng bộ Thành phố lần thứ II là?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3759"  name="answer-270" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Đoàn kết toàn dân, nâng cao nhiệt tình cách mạng, chí khí phấn đấu dung cảm, tinh thần lao động sáng tạo của nhân dân Thủ đô</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3760"  name="answer-270" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Phát triển toàn diện kinh tế, xã hội nhưng phải gìn giữ và phát triển và lưu truyền văn hóa người Hà Nội</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3757"  name="answer-270" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Tập trung phát triển kinh tế, nâng cao hiệu quả sản xuất, gia tăng xuất nhập khẩu</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3758"  name="answer-270" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Nâng cao sức mạnh của nhanh dân Thủ đô, tuyên truyền, dân vận để cho dân hiểu, góp phần xây dựng xã hội chủ nghĩa ở miền Bắc</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 14: Những yêu
+cầu thiết yếu ban hành Luật Thủ đô? 
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4059"  name="answer-345" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Việc mở rộng địa giới hành chính thành phố Hà Nội cũng đặt ra những vấn đề thực tế trước mắt cũng như lâu dài phải giải quyết.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4060"  name="answer-345" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Cả 3 phương án </span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4058"  name="answer-345" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Sau 9 năm thực hiện Pháp lệnh Thủ đô Hà Nội đạt được những thành tựu quan trọng; tuy nhiên quá trình thực hiện cũng bộc lộ nhiều bất cập cả từ khía cạnh pháp lý cũng như khả năng giải quyết những vấn đề đặt ra trên thực tế.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4057"  name="answer-345" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Hà Nội không đơn thuần là đơn vị hành chính cấp tỉnh, mà là trung tâm đầu não chính trị - hành chính của quốc gia,</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 15: Đại hội Đại biểu Đảng bộ Thành phố lần thứ XI đã quán triệt
+sâu sắc nhiệm vụ chỉnh đốn, nâng cao sức chiến đấu của Đảng bộ. Nội dung nào dưới
+đây thuộc nhiệm vụ đó?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4035"  name="answer-339" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Giữ nguyên và phát triển nội dung công tác tư tưởng</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4036"  name="answer-339" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Liên tục luận chuyển, điều đồng cán bộ trong quy hoạch</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4034"  name="answer-339" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Tuyển chọn, bồi dưỡng tu nghiệp nước ngoài với cán bộ trẻ có năng lực</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4033"  name="answer-339" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Đổi mới nội dung và phương thức lãnh đạo của Đảng</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 16: Nhân dân
+hai tỉnh Hà Đông-Sơn Tây đã ủng hộ bao nhiêu trong Tuần lễ vàng?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3584"  name="answer-226" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>1800 lạng vàng, 60 triệu đồng Đông Dương và 920 tạ thóc</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3581"  name="answer-226" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>2.201 lạng vàng, 920 tạ thóc, tiền bạc và nhiều hiện vật giá trị</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3583"  name="answer-226" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>370kg vàng và 60 triệu đồng Đông Dương</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3582"  name="answer-226" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>470 lạng vàng</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 17: Đội thanh niên cứu quốc thành Hoàng
+Diệu thu hút chủ yếu đối tượng nào tham gia?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3504"  name="answer-206" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Cả 3 phương án </span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3503"  name="answer-206" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Học sinh là con em các gia đình yêu nước chống Pháp</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3502"  name="answer-206" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Hướng đạo sinh</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3501"  name="answer-206" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Một số giáo viên trong tổ chức Hội truyền bá quốc ngữ ở nội, ngoại thành</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 18: Nội dung nào dưới đây không thuộc mục tiêu phát triển Thủ đô đến
+năm 2010 được nêu tại Đại hội Đại biểu Đảng bộ Thành phố Hà Nội lần thứ XIV?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4095"  name="answer-354" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Đẩy mạnh quá trình CNH, HĐH, đô thị hóa hội nhập kinh tế quốc tế</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4093"  name="answer-354" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Thành phố phải chủ động sáng tạo, phát huy tiềm năng, nguồn lực</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4094"  name="answer-354" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Giữ vững an ninh chính trị, trật tự an toàn xã hội</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4096"  name="answer-354" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Không có phương án nào </span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 19: Hà Nội hiện có
+bao nhiêu quận, huyện, thị xã?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4153"  name="answer-369" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>10 quận, 19 huyện, 1 thị xã</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4154"  name="answer-369" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>11 quận, 18 huyện, 1 thị xã</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="4156"  name="answer-369" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>13 quận, 15 huyện, 2 thị xã</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="4155"  name="answer-369" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>12 quận, 17 huyện, 1 thị xã </span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 20: Các tầng lớp,
+giai cấp cơ bản nào sau đây có sự chuyển biến mạnh giai đoạn 1926 – 1930 tại Hà
+Nội?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3416"  name="answer-184" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Các phương án trên</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3414"  name="answer-184" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Tri thức, học sinh</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3413"  name="answer-184" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Tư sản, Tiểu tư sản thành thị</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3415"  name="answer-184" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Công nhân</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 21: Thực dân Pháp đã tiến hành khủng bố
+các tổ chức đảng sau khi ra đời ở Hà Nội, Hà Đông, Sơn Tây như thế nào?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3485"  name="answer-202" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Thực dân Pháp tiến hành khủng bố ở những nơi có phong trào đấu tranh mạnh, liên tục vây bắt các đồng chí lãnh đạo</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3486"  name="answer-202" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Thực dân Pháp liên tục nổ súng, vào các địa điểm mật của ta</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3487"  name="answer-202" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Thực dân Pháp giết người, cướp của để cán bộ của Đảng phải ra mặt</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3488"  name="answer-202" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Thực dân Pháp gửi thư khủng bố yêu cầu các lãnh đạo Đảng ra phải ra mặt nếu không sẽ thực hiện nổ súng vào dân ta</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 22: Phong trào “Ba đảm đang” của phụ nữ gồm những nội dung gì?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3839"  name="answer-290" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Ðảm đang phục vụ chiến đấu khi cần thiết.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3838"  name="answer-290" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Ðảm đang gia đình, khuyến khích chồng con đi chiến đấu</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3840"  name="answer-290" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Cả 3 phương án trên</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3837"  name="answer-290" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Ðảm đang sản xuất, công tác, thay thế nam giới đi chiến đấu.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 23: Đại
+hội Đảng bộ thành phố Hà Nội lần thứ IV (tháng 4 năm 1968) đã đề ra nhiệm vụ về
+khắc phục hậu quả chiến tranh phá hoại do đế quốc Mỹ gây ra như thế nào?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3808"  name="answer-282" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Cả 3 phương án </span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3807"  name="answer-282" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Hết lòng hết sức chi viện đầy đủ, kịp thời mọi yêu cầu của chiến trường, đồng thời chuẩn bị kế hoạch xây dựng lại thành phố sau hòa bình.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3805"  name="answer-282" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Tăng cường sức chiến đấu để bảo vệ vững chắc Thủ đô, đánh bại mọi âm mưu, thủ đoạn chiến tranh phá hoại của đế quốc Mỹ.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3806"  name="answer-282" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Tiếp tục đẩy mạnh xây dựng chủ nghĩa xã hội, phát triển kinh tế, văn hóa, tổ chức tốt đời sống nhân dân.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 24: Chi bộ cộng sản
+đầu tiên ở trong nước được thành lập ở đâu tại Hà Nội?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3364"  name="answer-171" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Nhà số 6D phố Hàm Long</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3363"  name="answer-171" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Nhà số 5D phố Hàm Long</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3362"  name="answer-171" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Nhà số 4D phố Hàm Long</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3361"  name="answer-171" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Nhà số 3D phố Hàm Long</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item ">
+                                                <h4>Câu 25: Âm mưu của thực dân Pháp sau khi chiếm Hà Nội từ 1948-1950?
+
+</h4>
+                                                <div class="info-answer">
+                                                    <div class="row row-fullheight">
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3646"  name="answer-242" type="radio" >
+                                                                    <span class="label-asw">A: </span><span>Củng cố hệ thống chính quyền bù nhìn.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3648"  name="answer-242" type="radio" >
+                                                                    <span class="label-asw">B: </span><span>Cả 3 phương án </span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 left-side">
+                                                                <div class="item-q css-left-side">
+                                                                    <input value="3645"  name="answer-242" type="radio" >
+                                                                    <span class="label-asw">C: </span><span>Đỡ đầu các đảng phái, lập ra các tổ chức xã hội để tranh thủ quần chúng, tổ chức hệ thống ngụy quyền, ngụy quân, tiến hành chiến tranh gián điệp với quy mô ngày càng lớn.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-md-6 right-side">
+                                                                <div class="item-q css-right-side">
+                                                                    <input value="3647"  name="answer-242" type="radio" >
+                                                                    <span class="label-asw">D: </span><span>Tăng cường lực lượng mật thám, cảnh binh.</span>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="box-btn">
+                                    <div class="box-control-btn">
+                                        <a class="slide-control btn btn-default" id="slide-prev" style="border-radius: 0px;" href="#myCarousel" data-slide="prev">
+                                            < Trở lại
+                                        </a>
+                                        <a class="slide-control btn btn-success" id="slide-next" style="border-radius: 0px;" href="#myCarousel" data-slide="next">
+                                            Câu tiếp >
+                                        </a>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                            <div class="btn-rs" id="btn-submit" style="display: none">
+                                <button class="btn-send btn-primary btn" id="cmdSubmit">Nộp bài thi</button>
+                            </div>
+
+                        </form>
+                        <script type="text/javascript">
+                            function getRS(){
+                                var form = $('#frm-quiz');
+                                var postData = form.serializeArray();
+                                var url='http://tuoitrehanoi.com/ajaxs/test/result.php';
+                                $.post(url, postData, function(response_data){
+                                    window.location='http://tuoitrehanoi.com/lam-bai/tuan-9-thi-tim-hieu-ve-lich-su-90-nam-dang-bo-thanh-pho/binh-chon.html';
+                                    //console.log(response_data);
+                                });
+                            }
+                            $('#cmdSubmit').click(function(){
+                                getRS();
+                                return false;
+                            });
+
+                            // Set the date we're counting down to
+                            var end_time='May 11, 2020, 12:06:28';
+                            var countDownDate = new Date(end_time).getTime();
+
+                            // Update the count down every 1 second
+                            var x = setInterval(function() {
+
+                                // Get todays date and time
+                                var now = new Date().getTime();
+
+                                // Find the distance between now an the count down date
+                                var distance = countDownDate - now;
+
+                                // Time calculations for days, hours, minutes and seconds
+                                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                                // Output the result in an element with id="demo"
+                                document.getElementById("countdown").innerHTML = minutes + " Phút " + seconds + " Giây";
+
+                                // If the count down is over, write some text
+                                if (distance <= 0) {
+                                    clearInterval(x);
+                                    getRS();
+                                    document.getElementById("countdown").innerHTML = "Hết giờ";
+                                }
+                            }, 1000);
+                        </script>
+                        <script>
+                            $(function(){
+                                var carouselEl = $('.carousel');
+                                var carouselItems = carouselEl.find('.item');
+                                carouselEl.carousel({
+                                    interval: false
+                                }).on('slid.bs.carousel', function (event) {
+                                    var cur_index_slide=carouselItems.siblings('.active').index();
+                                    //var cur_index='25';
+                                    var cur_index='25';
+                                    if(cur_index_slide==cur_index-1){
+                                        $('#slide-next').toggle();
+                                        $('#btn-submit').show();
+                                    }
+                                    else  $('#slide-next').show();
+                                })
+                            })
+                        </script>
+                                    </div>
+            </div>
+        </div>
+
+    
+
+</div>
+    <div class="box-footer text-center">
+        <img src="http://tuoitrehanoi.com/templates/default/images/lua.png" height="4%" width="4%">
+        <strong style="color: while">Website chính thức thi trực tuyến của Đoàn TNCS Hồ Chí Minh thành phố Hà Nội</strong>
+        <img src="http://tuoitrehanoi.com/templates/default/images/lua.png" height="4%" width="4%">
+    </div>
+	<div class="box-footer2">
+	 <div class="module ">
+	<div class="content"><span style="font-weight: bold;">BAN TUYÊN GIÁO THÀNH ĐOÀN HÀ NỘI | MỌI QUYỀN LỢI ĐƯỢC BẢO LƯU</span><div><span style="font-weight: bold;">HOTLINE +84 93 449 1399</span></div></div></div>
+	</div>
+	<ul class="social-media list-inline text-lg-right text-center margin-0px text-white">
+			<li class="list-inline-item"><a class="facebook" target="_blank" href="https://www.facebook.com/thanhdoanhn/"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li><li class="list-inline-item"><a class="twitter" target="_blank" href="https://www.facebook.com/thanhdoanhn/"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li><li class="list-inline-item"><a class="google" target="_blank" href="https://www.facebook.com/thanhdoanhn/"><i class="fa fa-google-plus" aria-hidden="true"></i></a> </li><li class="list-inline-item"><a class="youtube" target="_blank" href="https://www.facebook.com/thanhdoanhn/"><i class="fa fa-youtube-play" aria-hidden="true"></i></a> </li>				
+			 
+			</ul>
+<div class="modal fade" id='myModal' role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <button type="button" class="close close-modal" data-dismiss="modal" aria-label="Close"></button>
+      <div class="modal-body" id="data-frm">
+        <p>One fine body&hellip;</p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script src='http://tuoitrehanoi.com/js/login_fb.js'></script>
+<script>
+    $('#myCarousel').on('slide',function(e){
+        var slideFrom = $(this).find('.active').index();
+        var slideTo = $(e.relatedTarget).index();
+        console.log(slideFrom+' => '+slideTo);
+    });
+
+    $('#nav_logout').click(function(){
+        $.get('http://tuoitrehanoi.com/ajaxs/mem/logout.php',function(req){
+            location.href='http://tuoitrehanoi.com/';
+            return false;
+        })
+    });
+    $('#nav_registry').click(function(){
+        $('#myModal').modal('show');
+        $('#myModal .modal-footer').hide();
+        $('#myModal').removeClass('modal-login');
+        $('#myModal .modal-body').html('Loadding');
+        $('#myModal .modal-header h4').html('Đăng ký');
+        $.get('http://tuoitrehanoi.com/ajaxs/mem/frm_register.php',function(req){
+            $('#myModal .modal-body').html(req);
+        })
+    });
+    $('#nav_login').click(function(){
+        $('#myModal').modal('show');
+        $('#myModal').addClass('modal-login');
+        $('#myModal .modal-footer').hide();
+        $('#myModal .modal-body').html('Loadding');
+        $.get('http://tuoitrehanoi.com/ajaxs/mem/frm_login.php',function(req){
+            $('#myModal .modal-body').html(req);
+        })
+    });
+</script>
+</html>
+
+<script language="JavaScript">
+
+    $(document).ready(function() {
+        $('input.disablecopypaste').bind('copy paste', function(e) {
+            e.preventDefault();
+        });
+    });
+
+    $('body').on('copy paste', 'input', function(e) {
+        e.preventDefault();
+    });
+    
+</script>
