@@ -1,0 +1,10 @@
+Hello:Xin chao
+Happy:Vui ve
+Sad:Buon
+Good Morning:Chao buoi sang
+Food:Thuc an
+Drug:Thuoc
+Water:Nuoc
+Loli:<3
+Book:Sach
+Apple:Qua tao

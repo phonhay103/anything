@@ -1,0 +1,6 @@
+A	C	5.0
+Admin	Admin12	0.0
+B	V	5.6
+C	12345	9.0
+E	F	1.0
+X	X	3.0
