@@ -6,3 +6,10 @@
 
 # Python
 - [Python Data Science Handbook - Old](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+# [Kaggle](https://www.kaggle.com/learn/)
+- [Python](https://www.kaggle.com/learn/python)
+- [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Pandas](https://www.kaggle.com/learn/pandas)
+- [Data Visualization](https://www.kaggle.com/learn/data-visualization)
