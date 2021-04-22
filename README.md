@@ -24,6 +24,12 @@
 
 # EDX
 - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+- [Graph Algorithms](https://www.edx.org/course/graph-algorithms)
+- [Data Science: Probability](https://www.edx.org/course/data-science-probability)
+- [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
+- [Data Science: Visualization](https://www.edx.org/course/data-science-visualization)
 
 # Coursera
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
