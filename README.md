@@ -4,8 +4,9 @@
   - [Youtube: 1-43 & 63-77](https://www.youtube.com/playlist?list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ)
   - [Youtube: 44-62](https://www.youtube.com/playlist?list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F)
 
-# Python
+# Ebook
 - [Python Data Science Handbook - Old](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 # [Kaggle](https://www.kaggle.com/learn/)
 - [Python](https://www.kaggle.com/learn/python)
@@ -13,3 +14,6 @@
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [Pandas](https://www.kaggle.com/learn/pandas)
 - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+
+# [Khanacedemy](https://www.khanacademy.org/)
+- [High school statistics](https://www.khanacademy.org/math/probability)
