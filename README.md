@@ -17,3 +17,9 @@
 
 # [Khanacedemy](https://www.khanacademy.org/)
 - [High school statistics](https://www.khanacademy.org/math/probability)
+
+# Udacity
+- [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+
+# EDX
+- [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
