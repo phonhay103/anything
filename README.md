@@ -40,3 +40,8 @@
 
 # Machine Learning
 - [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+# 日本語
+- N3
+  - [Tự học Ngữ pháp N3 - Mimikara Oboeru Bunpou](https://www.youtube.com/playlist?list=PLP_AG3822jrkqZ1E0dWgEEEtkQ-mStRMd)
+  - [[FULL] Ngữ pháp N3 Shinkanzen](https://www.youtube.com/playlist?list=PLe8rNdIbkIGgKL7q-ViPVFnUGDwk_hkL_)
