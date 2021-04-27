@@ -1,4 +1,4 @@
 - [Tu Chân Nói Chuyện Phiếm Quần](https://truyencv.com/tu-chan-noi-chuyen-phiem-quan/)
-- [Vô Hạn Khủng Bố	Zhttty](https://truyenfull.net/vo-han-khung-bo/)
-- [Vô Hạn Thự Quang	Zhttty](https://truyenfull.net/vo-han-thu-quang/)
-- [Vô Hạn Tương Lai	Zhttty](https://truyenfull.net/vo-han-tuong-lai/)
+- [[ZhtttyVô Hạn Khủng Bố](https://truyenfull.net/vo-han-khung-bo/)
+- [[Zhttty]Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
+- [[Zhttty]Vô Hạn Tương Lai](https://truyenfull.net/vo-han-tuong-lai/)
