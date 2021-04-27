@@ -1,11 +1,12 @@
 - [Tu Chân Nói Chuyện Phiếm Quần](https://truyencv.com/tu-chan-noi-chuyen-phiem-quan/)
 ### Zhttty
-  - [Vô Hạn Khủng Bố](https://truyenfull.net/vo-han-khung-bo/)
-  - [Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
-  - [Vô Hạn Tương Lai](https://truyenfull.net/vo-han-tuong-lai/)
+- [Vô Hạn Khủng Bố](https://truyenfull.net/vo-han-khung-bo/)
+- [Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
+- [Vô Hạn Tương Lai](https://truyenfull.net/vo-han-tuong-lai/)
 ### Tiểu Đao Phong Lợi
-- [Tiểu Đao Phong Lợi - Duy Ngã Độc Tôn](https://truyenfull.vn/duy-nga-doc-ton/)
-- [Tiểu Đao Phong Lợi - Ngạo Kiếm Lăng Văn](https://truyenfull.vn/ngao-kiem-lang-van/)
-- [Tiểu Đao Phong Lợi - Thí Thiên Đao](https://truyenfull.vn/thi-thien-dao/)
-- [Đường Gia Tam Thiếu - Long Vương Truyền Thuyết](https://truyencv.com/long-vuong-truyen-thuyet/)
-- [Đường Gia Tam Thiếu - Tuyệt Thế Đường Môn](https://truyencv.com/tuyet-the-duong-mon/)
+- [=Duy Ngã Độc Tôn](https://truyenfull.vn/duy-nga-doc-ton/)
+- [Ngạo Kiếm Lăng Văn](https://truyenfull.vn/ngao-kiem-lang-van/)
+- [Thí Thiên Đao](https://truyenfull.vn/thi-thien-dao/)
+### Đường Gia Tam Thiếu
+- [Long Vương Truyền Thuyết](https://truyencv.com/long-vuong-truyen-thuyet/)
+- [Tuyệt Thế Đường Môn](https://truyencv.com/tuyet-the-duong-mon/)
