@@ -4,7 +4,7 @@
 - [Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
 - [Vô Hạn Tương Lai](https://truyenfull.net/vo-han-tuong-lai/)
 ### Tiểu Đao Phong Lợi
-- [=Duy Ngã Độc Tôn](https://truyenfull.vn/duy-nga-doc-ton/)
+- [Duy Ngã Độc Tôn](https://truyenfull.vn/duy-nga-doc-ton/)
 - [Ngạo Kiếm Lăng Văn](https://truyenfull.vn/ngao-kiem-lang-van/)
 - [Thí Thiên Đao](https://truyenfull.vn/thi-thien-dao/)
 ### Đường Gia Tam Thiếu
