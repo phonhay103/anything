@@ -2,3 +2,6 @@
 - [[Zhttty] Vô Hạn Khủng Bố](https://truyenfull.net/vo-han-khung-bo/)
 - [[Zhttty] Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
 - [[Zhttty] Vô Hạn Tương Lai](https://truyenfull.net/vo-han-tuong-lai/)
+- [[Tiểu Đao Phong Lợi] Duy Ngã Độc Tôn](https://truyenfull.vn/duy-nga-doc-ton/)
+- [[Tiểu Đao Phong Lợi] Ngạo Kiếm Lăng Văn](https://truyenfull.vn/ngao-kiem-lang-van/)
+- [[Tiểu Đao Phong Lợi] Thí Thiên Đao](https://truyenfull.vn/thi-thien-dao/)
