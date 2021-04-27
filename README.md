@@ -1,1 +1,4 @@
-- [[Fshare - 23/4/2021] Mortal Kombat 2021](https://www.fshare.vn/folder/C8WM5K3J3KAH?token=1619285322)
+- [Tu Chân Nói Chuyện Phiếm Quần](https://truyencv.com/tu-chan-noi-chuyen-phiem-quan/)
+- [Vô Hạn Khủng Bố	Zhttty](https://truyenfull.net/vo-han-khung-bo/)
+- [Vô Hạn Thự Quang	Zhttty](https://truyenfull.net/vo-han-thu-quang/)
+- [Vô Hạn Tương Lai	Zhttty](https://truyenfull.net/vo-han-tuong-lai/)
