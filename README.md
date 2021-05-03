@@ -46,3 +46,5 @@
   - [Tự học Ngữ pháp N3 - Mimikara Oboeru Bunpou](https://www.youtube.com/playlist?list=PLP_AG3822jrkqZ1E0dWgEEEtkQ-mStRMd)
   - [[FULL] Ngữ pháp N3 Shinkanzen](https://www.youtube.com/playlist?list=PLe8rNdIbkIGgKL7q-ViPVFnUGDwk_hkL_)
   - [Học Từ Vựng Tiếng Nhật - Mimi Kara Oboeru N3](https://www.youtube.com/playlist?list=PLU2ApWp_eKA4CQiWIy09RBvR77djS7QVl)
+# N/A
+- [Programming Notes for Professionals books](https://goalkicker.com/)
