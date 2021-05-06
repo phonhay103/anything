@@ -48,3 +48,6 @@
   - [Học Từ Vựng Tiếng Nhật - Mimi Kara Oboeru N3](https://www.youtube.com/playlist?list=PLU2ApWp_eKA4CQiWIy09RBvR77djS7QVl)
 # N/A
 - [Programming Notes for Professionals books](https://goalkicker.com/)
+
+# Java
+- [kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
