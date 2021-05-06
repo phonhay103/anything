@@ -50,4 +50,4 @@
 - [Programming Notes for Professionals books](https://goalkicker.com/)
 
 # Java
-- [kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
+- [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
