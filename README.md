@@ -51,3 +51,4 @@
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
+- [Các hướng dẫn lập trình JavaFX](https://openplanning.net/11009/javafx)
