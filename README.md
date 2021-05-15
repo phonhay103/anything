@@ -1,4 +1,7 @@
 - [Tu Chân Nói Chuyện Phiếm Quần](https://truyencv.com/tu-chan-noi-chuyen-phiem-quan/)
+- [The Gamer Hệ Thống](https://truyenfull.vn/the-gamer-he-thong/)
+- [Tặc đảm](https://truyenfull.vn/tac-dam/)
+- [Tiên Ngục](https://truyenfull.vn/tien-nguc/)
 ### Zhttty
 - [Vô Hạn Khủng Bố](https://truyenfull.net/vo-han-khung-bo/)
 - [Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
