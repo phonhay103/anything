@@ -47,6 +47,7 @@
   - [Tự học Ngữ pháp N3 - Mimikara Oboeru Bunpou](https://www.youtube.com/playlist?list=PLP_AG3822jrkqZ1E0dWgEEEtkQ-mStRMd)
   - [[FULL] Ngữ pháp N3 Shinkanzen](https://www.youtube.com/playlist?list=PLe8rNdIbkIGgKL7q-ViPVFnUGDwk_hkL_)
   - [Học Từ Vựng Tiếng Nhật - Mimi Kara Oboeru N3](https://www.youtube.com/playlist?list=PLU2ApWp_eKA4CQiWIy09RBvR77djS7QVl)
+  - [1000 CÂU GIAO TIẾP N3](https://www.youtube.com/watch?v=iP2_5YjRG6M)
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
