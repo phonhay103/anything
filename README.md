@@ -52,3 +52,6 @@
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
 - [openplanning - Các hướng dẫn lập trình JavaFX](https://openplanning.net/11009/javafx)
+
+# Dart
+- [[Smartherd] Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)  [Github](https://github.com/smartherd/darttutorial)
