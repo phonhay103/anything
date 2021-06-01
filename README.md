@@ -1,1 +1,1 @@
-- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications(https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
