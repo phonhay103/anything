@@ -1,2 +1,3 @@
 - [[Fshare - 23/4/2021] Mortal Kombat 2021](https://www.fshare.vn/folder/C8WM5K3J3KAH?token=1619285322)
 - [Dead Pool](https://phephimz.net/phim/quai-nhan-deadpool-623)
+- [Dead Pool 2](https://dongphym.net/movie/-quai-nhan-2-deadpool-2-2018_ORKrtA2r.html)
