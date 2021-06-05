@@ -16,6 +16,7 @@
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [Pandas](https://www.kaggle.com/learn/pandas)
 - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+- [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 
 # [Khanacedemy](https://www.khanacademy.org/)
 - [High school statistics](https://www.khanacademy.org/math/probability)
