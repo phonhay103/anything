@@ -1,1 +1,2 @@
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
+- [A Neural Algorithm of Artistic Style](https://paperswithcode.com/paper/a-neural-algorithm-of-artistic-style)
