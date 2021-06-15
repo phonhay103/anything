@@ -1,0 +1,31 @@
+charcode	.c .h
+token 		.c .h
+debug 		.c
+scanner		.c
+symtab 		.c .h
+semantics	.c .h
+parser 		.c .h
+error		.c .h
+
+SB_ASSIGN_PLUS		+=
+SB_ASSIGN_SUBTRACT	-=
+SB_ASSIGN_TIMES		*=
+SB_ASSIGN_DIVIDE	/=
+SB_MODULUS		%
+
+UNDERSCORE		_
+(. .) => [ ]
+
+KW_DOUBLE
+KW_STRING
+TK_DOUBLE
+TK_STRING
+
+WRITEF
+READF
+
+ERR_INVALID_MODUL_OPERATOR
+ERR_VALUE_UNPACK1
+ERR_VALUE_UNPACK2
+ERR_ASSIGN_VALUE_LITERAL
+ERR_CONVERT_DOUBLE_INT
