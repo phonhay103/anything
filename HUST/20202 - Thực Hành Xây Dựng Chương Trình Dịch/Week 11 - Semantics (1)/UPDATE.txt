@@ -1,0 +1,22 @@
+charcode 	.c .h
+scanner		.c
+symtab 		.c .h
+parser 		.c
+token 		.c .h
+debug 		.c
+
+
+SB_ASSIGN_PLUS		+=
+SB_ASSIGN_SUBTRACT	-=
+SB_ASSIGN_TIMES		*=
+SB_ASSIGN_DIVIDE	/=
+SB_MODULUS		%
+
+UNDERSCORE		_
+(. .) => [ ]
+
+KW_FLOAT
+TK_FLOAT
+
+WRITEF
+READF
