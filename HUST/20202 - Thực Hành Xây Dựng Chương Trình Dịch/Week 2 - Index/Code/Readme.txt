@@ -1,0 +1,1 @@
+gcc -o app index.c lib/libfdr.a
