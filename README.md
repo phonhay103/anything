@@ -1,3 +1,4 @@
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
 - [A Neural Algorithm of Artistic Style](https://paperswithcode.com/paper/a-neural-algorithm-of-artistic-style)
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://paperswithcode.com/paper/mobilenetv2-inverted-residuals-and-linear)
+- [Searching for MobileNetV3](https://paperswithcode.com/paper/searching-for-mobilenetv3)
