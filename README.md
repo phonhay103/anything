@@ -3,3 +3,4 @@
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://paperswithcode.com/paper/mobilenetv2-inverted-residuals-and-linear)
 - [Searching for MobileNetV3](https://paperswithcode.com/paper/searching-for-mobilenetv3)
 - [Deep Residual Learning for Image Recognition](https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition)
+- [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
