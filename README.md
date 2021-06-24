@@ -50,6 +50,7 @@
   - [Học Từ Vựng Tiếng Nhật - Mimi Kara Oboeru N3](https://www.youtube.com/playlist?list=PLU2ApWp_eKA4CQiWIy09RBvR77djS7QVl)
   - [1000 CÂU GIAO TIẾP N3](https://www.youtube.com/watch?v=iP2_5YjRG6M)
   - [BỨT PHÁ ĐỌC HIỂU N3 CÙNG MON SENSEI](https://www.youtube.com/playlist?list=PLP_AG3822jrllztbS_rGK_vuq70Ip6lJY)
+  - [PHIÊU LƯU THẾ GIỚI TỪ VỰNG N3 CÙNG KWANG SS](https://www.youtube.com/playlist?list=PLP_AG3822jrnGODSlDC6qb3oSIPQ2DbHQ)
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
