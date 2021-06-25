@@ -20,6 +20,7 @@
 - [Án Mạng Đêm Động Phòng](https://truyenfull.net/an-mang-dem-dong-phong/)
 - [Nhất Thế Tôn Sư](https://truyenfull.net/nhat-the-ton-su-nhat-the-chi-ton/)
 - [Đổi Hồn](https://truyenfull.net/doi-hon/)
+- [Ngạo Thế Đan Thần](https://truyenfull.vn/ngao-the-dan-than/)
 ### Zhttty
 - [Vô Hạn Khủng Bố](https://truyenfull.net/vo-han-khung-bo/)
 - [Vô Hạn Thự Quang](https://truyenfull.net/vo-han-thu-quang/)
