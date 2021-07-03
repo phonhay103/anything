@@ -58,3 +58,6 @@
 
 # Dart
 - [[Smartherd] Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q) - [Github](https://github.com/smartherd/darttutorial)
+
+# Android
+- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
