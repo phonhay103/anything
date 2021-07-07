@@ -51,6 +51,7 @@
   - [1000 CÂU GIAO TIẾP N3](https://www.youtube.com/watch?v=iP2_5YjRG6M)
   - [BỨT PHÁ ĐỌC HIỂU N3 CÙNG MON SENSEI](https://www.youtube.com/playlist?list=PLP_AG3822jrllztbS_rGK_vuq70Ip6lJY)
   - [PHIÊU LƯU THẾ GIỚI TỪ VỰNG N3 CÙNG KWANG SS](https://www.youtube.com/playlist?list=PLP_AG3822jrnGODSlDC6qb3oSIPQ2DbHQ)
+  - [Ngữ pháp N3 "Tưởng GIỐNG mà KHÁC"](https://www.youtube.com/playlist?list=PLP_AG3822jrmPm03hAIBBtKErwzdlQGx8)
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
@@ -61,3 +62,6 @@
 
 # Android
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+
+# COIN
+- [Hướng dẫn Phân tích kỹ thuật - Trade Coin](https://www.youtube.com/playlist?list=PL6xxyNiKuShu1Ztk9vhG0LJb9BE_mJhrq)
