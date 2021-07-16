@@ -6,7 +6,7 @@
 - [LearnCpp.com](https://www.learncpp.com/)
 
 # Ebook
-- [Python Data Science Handbook - Old](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python Data Science Handbook - Python 3.5](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Programming Notes for Professionals books](https://goalkicker.com/)
 
