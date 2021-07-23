@@ -43,6 +43,7 @@
 - [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
   1. [Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow?specialization=tensorflow-data-and-deployment)
   2. [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow?specialization=tensorflow-data-and-deployment)
+  3. [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/learn/data-pipelines-tensorflow)
 
 # Machine Learning
 - [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
