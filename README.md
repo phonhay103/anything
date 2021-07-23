@@ -28,6 +28,8 @@
 - [HarvardX's Computer Science for Artificial Intelligence Professional Certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
   1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   2. [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+- [BerkeleyX's Blockchain Fundamentals Professional Certificate](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+  1. [Bitcoin and Cryptocurrencies](https://www.edx.org/course/bitcoin-and-cryptocurrencies)
 - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
 - [Graph Algorithms](https://www.edx.org/course/graph-algorithms)
 - [Data Science: Probability](https://www.edx.org/course/data-science-probability)
