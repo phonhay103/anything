@@ -1,33 +1,36 @@
-charcode	.c .h
-token 		.c .h
-error		.c .h
-debug 		.c
-scanner		.c
-symtab 		.c .h
+✨charcode	.c .h
+UNDERSCORE		_ (CHAR_LETTER)
+CHAR_OBRT		[ (For Array)
+CHAR_CBRT		] (For Array)
+CHAR_MODULUS		%
+CHAR_SINGLEQUOTE	' (For Char)
+CHAR_DOUBLEQUOTE	" (For String)
 
-parser 		.c .h
-semantics	.c .h
-
-
+✨token 		.c .h
+TK_DOUBLE		
+TK_STRING		
+KW_DOUBLE		DOUBLE
+KW_STRING		STRING
 SB_ASSIGN_PLUS		+=
 SB_ASSIGN_SUBTRACT	-=
 SB_ASSIGN_TIMES		*=
 SB_ASSIGN_DIVIDE	/=
 SB_MODULUS		%
 
-UNDERSCORE		_
-(. .) => [ ]
+✨symtab 	.c .h
+WRITEF			
+READF			
 
-KW_DOUBLE
-KW_STRING
-TK_DOUBLE
-TK_STRING
-
-WRITEF
-READF
-
+✨error		.c .h
 ERR_INVALID_MODUL_OPERATOR
 ERR_VALUE_UNPACK1
 ERR_VALUE_UNPACK2
 ERR_ASSIGN_VALUE_LITERAL
 ERR_CONVERT_DOUBLE_INT
+
+✨debug 		.c
+✨scanner	.c
+✨parser 	.c .h
+✨semantics	.c .h
+- Assign multiple variables
+- Do while
