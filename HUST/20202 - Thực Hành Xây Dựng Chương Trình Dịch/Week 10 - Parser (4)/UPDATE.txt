@@ -1,0 +1,15 @@
+SB_ASSIGN_PLUS
+SB_ASSIGN_SUBTRACT
+SB_ASSIGN_TIMES
+SB_ASSIGN_DIVIDE
+
+(. .) => [ ]
+
+Type ::= KW_FLOAT
+BasicType ::= KW_FLOAT
+UnsignedConstant ::= TK_FLOAT
+Constant2::= TK_FLOAT
+
+UNDERSCORE (charcode)
+
+% : SB_MODULUS (scanner)
