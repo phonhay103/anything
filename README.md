@@ -83,4 +83,4 @@
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 # COIN
-- [Hướng dẫn Phân tích kỹ thuật - Trade Coin](https://www.youtube.com/playlist?list=PL6xxyNiKuShu1Ztk9vhG0LJb9BE_mJhrq)
+- [Đầu tư Trade Coin](https://www.youtube.com/channel/UCL9RiCSlIhu6f1JbK943CgQ)
