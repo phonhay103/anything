@@ -51,6 +51,11 @@
 - [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
   1. [Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow)
   2. [Custom and Distributed Training with TensorFlow](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow)
+  3. [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow)
+  4. [Generative Deep Learning with TensorFlow](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+  1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+  2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
 
 # Machine Learning
 - [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -64,6 +69,8 @@
   - [[Riki] BỨT PHÁ ĐỌC HIỂU N3 CÙNG MON SENSEI](https://www.youtube.com/playlist?list=PLP_AG3822jrllztbS_rGK_vuq70Ip6lJY)
   - [[Riki] PHIÊU LƯU THẾ GIỚI TỪ VỰNG N3 CÙNG KWANG SS](https://www.youtube.com/playlist?list=PLP_AG3822jrnGODSlDC6qb3oSIPQ2DbHQ)
   - [[Riki] Ngữ pháp N3 "Tưởng GIỐNG mà KHÁC"](https://www.youtube.com/playlist?list=PLP_AG3822jrmPm03hAIBBtKErwzdlQGx8)
+- N2
+  - NONE
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
