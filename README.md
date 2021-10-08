@@ -70,7 +70,7 @@
   - [[Riki] PHIÊU LƯU THẾ GIỚI TỪ VỰNG N3 CÙNG KWANG SS](https://www.youtube.com/playlist?list=PLP_AG3822jrnGODSlDC6qb3oSIPQ2DbHQ)
   - [[Riki] Ngữ pháp N3 "Tưởng GIỐNG mà KHÁC"](https://www.youtube.com/playlist?list=PLP_AG3822jrmPm03hAIBBtKErwzdlQGx8)
 - N2
-  - NONE
+  - [[Riki] N2 Bunpou - Mimikara Oboeru](https://youtube.com/playlist?list=PLU2ApWp_eKA5dWA2FgRXf3g2AjxNKYpZi)
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
