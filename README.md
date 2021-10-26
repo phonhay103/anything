@@ -84,3 +84,6 @@
 
 # COIN
 - [Đầu tư Trade Coin](https://www.youtube.com/channel/UCL9RiCSlIhu6f1JbK943CgQ)
+
+# Ruby
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
