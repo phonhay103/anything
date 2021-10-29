@@ -69,6 +69,7 @@
   - [[Riki] BỨT PHÁ ĐỌC HIỂU N3 CÙNG MON SENSEI](https://www.youtube.com/playlist?list=PLP_AG3822jrllztbS_rGK_vuq70Ip6lJY)
   - [[Riki] PHIÊU LƯU THẾ GIỚI TỪ VỰNG N3 CÙNG KWANG SS](https://www.youtube.com/playlist?list=PLP_AG3822jrnGODSlDC6qb3oSIPQ2DbHQ)
   - [[Riki] Ngữ pháp N3 "Tưởng GIỐNG mà KHÁC"](https://www.youtube.com/playlist?list=PLP_AG3822jrmPm03hAIBBtKErwzdlQGx8)
+  - [[Riki] THỬ THÁCH 20 NGÀY N3 NÂNG CAO - 120 ĐIỂM THI JLPT](https://www.youtube.com/playlist?list=PLP_AG3822jrnImZ_C06WKSmUPskNpsy3S)
 - N2
   - [[Riki] N2 Bunpou - Mimikara Oboeru](https://youtube.com/playlist?list=PLU2ApWp_eKA5dWA2FgRXf3g2AjxNKYpZi)
 
