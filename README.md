@@ -85,8 +85,8 @@
 # Android
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
-# COIN
-- [Đầu tư Trade Coin](https://www.youtube.com/channel/UCL9RiCSlIhu6f1JbK943CgQ)
+# Blockchain
+- [CryptoZombies](https://cryptozombies.io/)
 
 # Ruby
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
