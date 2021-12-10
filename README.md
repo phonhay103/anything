@@ -88,5 +88,6 @@
 # Blockchain
 - [CryptoZombies](https://cryptozombies.io/)
 
-# Ruby
+# Ruby / Ruby on Rails
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg)
