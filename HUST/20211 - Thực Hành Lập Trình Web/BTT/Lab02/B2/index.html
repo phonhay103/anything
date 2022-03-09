@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+</head>
+<body>
+    <form method="POST" action="index.php">
+        <label for="str">Input string: </label><br>
+        <input type="text" id="string" name="string"><br>
+        
+        <label for="strlen"> strlen </label>
+        <input type="radio" id="strlen" name="type" value="strlen" checked>
+        
+        <label for="strtolower"> strtolower </label>
+        <input type="radio" id="strtolower" name="type" value="strtolower">
+        
+        <label for="trim"> trim </label>
+        <input type="radio" id="trim" name="type" value="trim">
+        
+        <label for="strtoupper"> strtoupper </label>
+        <input type="radio" id="strtoupper" name="type" value="strtoupper"><br>
+
+        <input type="submit" name="submit" id="submit" value="Submit">
+    </form>
+</body>
+</html>

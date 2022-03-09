@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<studentInfo>
+	<id>20180000</id>
+	<name>
+		<firstname>Nhay</firstname>
+	</name>	
+	<dateofbirth>05/02/2000</dateofbirth>
+	<class>VN-04</class>
+	<school>DH Bach Khoa HN</school>
+</studentInfo>

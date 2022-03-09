@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Colorful event</title>
+        <style>
+            #para {
+                font-size: 40px;
+            }
+        </style>
+        <script>
+            function over_r() {
+                document.getElementById("para").style.color = "red"
+            }
+            function out_r() {
+                document.getElementById("para").style.color = "black"
+            }
+            function over_g() {
+                document.getElementById("para").style.color = "green"
+            }
+            function out_g() {
+                document.getElementById("para").style.color = "black"
+            }
+            function over_b() {
+                document.getElementById("para").style.color = "blue"
+            }
+            function out_b() {
+                document.getElementById("para").style.color = "black"
+            }
+        </script>
+    </head>
+    <body>
+        <p id = "red" onmouseover="over_r(this)" onmouseout="out_r(this)">RED</p>
+        <p id = "green" onmouseover="over_g(this)" onmouseout="out_g(this)">GREEN</p>
+        <p id = "blue" onmouseover="over_b(this)" onmouseout="out_b(this)">BLUE</p>
+        <div id = "para">Some Text</div>
+    </body>
+</html>

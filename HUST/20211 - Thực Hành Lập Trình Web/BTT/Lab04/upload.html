@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <h1> Message Board </h1><br><br>
+        <form action="upload.php" method="post" enctype="multipart/form-data">
+            Tên người dùng: <br>
+            <input type="text" name="username" id="username"><br>
+            <input type="checkbox" name="anonymous" id="anonymous">
+            <label for="anonymous"> Đăng thông điệp vô danh</label><br><br>
+            <label for="comment"> Nội dung thông điệp:</label><br>
+            <input type="text" name="comment" id="comment"><br><br>
+
+            Hình ảnh kèm theo: <br>
+            <input type="file" name="fileupload" id="fileupload"><br><br>
+            <input type="submit" value="Đăng thông điệp" name="submit">
+        </form>
+    </body>
+</html>

@@ -1,0 +1,57 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    background: slateblue;
+    height: 7%;
+    width: 100%;
+}
+
+#header a {
+    font-size: 13pt;
+    color: white;
+}
+
+#header table {
+    height: 100%;
+    width: 80%;
+}
+
+#side_bar {
+    display: flex;
+    background: #f00;
+    float: right;
+    width: 33%;
+    height: 100%;
+}
+
+#main {
+    background-color: white;
+    width: 30%;
+}
+
+#two {
+    width: 50%;
+}
+
+#footer {
+    background: #0f0;
+    clear: both;
+    height: 5%;
+    width: 100%;
+}
+.flex-container {
+    display: flex;
+    background-color: goldenrod;
+    flex-direction: row;            /*Thiết lập hướng chính*/
+}
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20x;
+    
+}

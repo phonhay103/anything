@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mắt biếc</title>
+    <link rel=stylesheet href="page.css" type="text/css">
+</head>
+
+<body>
+	
+      <div id="header">
+          <table>
+              <tr>
+                  <th><a href="#">Trang chủ</a></th>
+                  <th><a href="#">Danh sách</a></th>
+                  <th><a href="#">Thể loại</a></th>
+                  <th><a href="#">Phân loại theo chương</a></th>
+                  <th><a href="#">Tùy chỉnh</a></th>
+              </tr>
+          </table>
+      </div>
+      <div class="flex-container">
+      	
+      	<div id="main">
+          
+          <div >
+            <h2>THÔNG TIN TRUYỆN</h2>
+              <img src="https://static.8cache.com/cover/eJwFwdm2azAAANAvsi4xlIf7UCKtUlONfbEoDVWJmvn6s_e35v8dyyWDtkFutzOOpLV8iUNw4svs6R2PBQ1hP433D3ZFmVkyOe_Wa7cY5dVrWGVCHQ-aO4wyiY-6kAlGjVcY4AwPZ4flSX-BSelzGO016Ef3fqtkj5ciocyan3aUueKvaNSNNK3KILMJTebGdHHLGEOLqyYzRyFQ0Kz-eFcqr2J-PKFF3VbQmQtQPOYuggqMlclLXCNc9Idlh6H-SQapCIlxjifnCOwaFPXDd4vKIvjVW51O1Yn4OvBlLo3nOnC_6KcsZ6lJGzIJ8B3QiztNE9KuYSuSnURhoHO_BNGUnCEWrcdi9JRznusTXcTbT8ZppWffSnYPY-77BVtWshYDr9vWCmVvmEMUhg8am9EcdGBfgiGyK3-Tqqhy50qATF3D1EWvE99GApmfa6HPDfXsjXz23jpokYtISIZyspeNataIN3O0nwyvqqRvckdQZxQnmSNz5dVs2SFIWvpOdpC3XNE5sb2X8YkDJStw8afocD-9zUVf6aqi0TS-wgv7gp-raWcrPtZOoNs0i_ayTC4HAr4NHA8gf46XWXNJprIia948WuIc-vVHXK6vs6ksPbEhmpy3Opg7B2-7o4WTMaJd3fqDrWFQV5j9vwJOZGoegD-oDNGC/mat-biec.jpg">
+              <p>
+                <b>Tác giả:</b> Nguyễn Nhật Ánh<br>
+                <b>Thể loại:</b> Ngôn tình, Truyện Teen, Khác<br>
+                <b>Trạng thái:</b> Full<br>
+                </p>
+          </div>
+      </div>
+      <div id="two">
+      	<><b>Lời tác giả:</b><br>
+"Mắt Biếc" là câu chuyện kể về cuộc đời của nhân vật Ngạn. Sinh ra và lớn lên ở một ngôi làn tên Đo Đo (cũng là nguyên quán của Nguyễn Nhật Ánh - tác giả), Ngạn thầm yêu từ nhỏ cô nàng cùng xóm có đôi mắt tuyệt đẹp - Hà Lan. 
+Tuổi thơ ở nơi làng xóm bình yên giản dị thật là đẹp, nhưng rồi cũng đến lúc kết thúc khi cả hai đều phải lên thành phố tiếp tục việc học, và tấm bi kịch bắt đầu từ đây.
+<br><br>
+Lòng thương nhớ của Ngạn đối với Hà Lan vẫn luôn không thay đổi, nhưng cô gái ấy đã không thể chống lại sự cám dỗ của thị thành, cô đã ngã vào lòng một người con trai khác tên Dũng.
+ <br><br>Cô và Dũng có con, nhưng người đàn ông ấy đã ruồng bỏ cô, khiến cô phải gửi đứa trẻ về quê cho bà ngoại chăm sóc, cô đặt tên nó là Trà Long. Hà Lan vẫn biết Ngạn thầm thương mình bấy lâu, nhưng cô không chấp nhận vì cô biết, cô và Ngạn không cùng một lối sống. Thế nhưng tấm lòng của anh trai làng vẫn không hề thay đổi, anh dành hết tình thương cho con cô. Cô bé Trà Long ấy ngày một lớn và trở thành cô giáo, và tất nhiên, cô rất quý mến Ngạn.
+
+Liệu, Trà Long có phải là những gì mà Ngạn tìm kiếm ở Hà Lan,người có bù đắp lại những thứ mà Ngạn đã bỏ dở trong cuộc đời anh ấy?...
+      </div>
+      <div id="side_bar"><b>DANH SÁCH CHƯƠNG</b>
+        <br><br>
+      <ul>
+         <li>Chương 1: </li>
+         <li>Chương 2: </li>
+         <li>Chương 3: </li>
+         <li>Chương 4: </li>
+         <li>Chương 5: </li>
+         <li>Chương 6: </li>
+         <li>Chương 7: </li>
+         <li>Chương 8: </li>
+         <li>Chương 9: </li>
+         <li>Chương 11: </li>
+         <li>Chương 12: </li>
+         <li>Chương 13: </li>
+         <li>Chương 14: </li>
+         <li>Chương 15: </li>
+         <li>Chương 16: </li>
+         <li>Chương 17: </li>
+        </ul>
+      </div>
+      </div>
+
+      <div id="footer">
+        <p>@Copyright<br>Email:tuanpeterkill@gmail.com</p>
+        </div>
+</body>
+
+</html>

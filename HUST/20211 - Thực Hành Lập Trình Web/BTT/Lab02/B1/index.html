@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+</head>
+<body>
+    <form method="POST" action="index.php">
+        <label for="number1">Number 1</label><br>
+        <input type="text" id="num1" name="num1"><br>
+        
+        <label for="add"> Add </label>
+        <input type="radio" id="add" name="calculate" value="add" checked>
+        
+        <label for="subtract"> Sub </label>
+        <input type="radio" id="subtract" name="calculate" value="sub">
+        
+        <label for="multiply"> Mul </label>      
+        <input type="radio" id="multiply" name="calculate" value="mul">
+        
+        <label for="divide"> Div </label>     
+        <input type="radio" id="divide" name="calculate" value="div"><br>
+
+        <label for="number2">Number 2</label><br>
+        <input type="text" id="num2" name="num2"><br>
+
+        <input type="submit" name="submit" id="submit" value="Submit">
+    </form>
+</body>
+</html>
