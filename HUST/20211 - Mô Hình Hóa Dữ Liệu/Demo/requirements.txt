@@ -1,0 +1,6 @@
+streamlit
+pandas
+pandas-profiling
+streamlit-pandas-profiling
+numpy
+pycoingecko
