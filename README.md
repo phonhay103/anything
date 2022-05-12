@@ -51,6 +51,7 @@
   - [[Riki] THỬ THÁCH 20 NGÀY N3 NÂNG CAO - 120 ĐIỂM THI JLPT](https://www.youtube.com/playlist?list=PLP_AG3822jrnImZ_C06WKSmUPskNpsy3S)
 - N2
   - [[Riki] N2 Bunpou - Mimikara Oboeru](https://youtube.com/playlist?list=PLU2ApWp_eKA5dWA2FgRXf3g2AjxNKYpZi)
+  - [[日本語の森] N2文法 grammar VS](https://www.youtube.com/playlist?list=PLINFE8v4DOhvV5tJT77oF92vIwLLl6wAA)
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
