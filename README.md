@@ -38,20 +38,7 @@
 - [Data Science: Visualization](https://www.edx.org/course/data-science-visualization)
 
 # 日本語
-- Podcast
-  - [Let’s Talk in Japanese!](https://www.listennotes.com/vi/podcasts/lets-talk-in-japanese-tomo-D6QGPZMUOWr/)
-- N3
-  - [[Riki] Tự học Ngữ pháp N3 - Mimikara Oboeru Bunpou](https://www.youtube.com/playlist?list=PLP_AG3822jrkqZ1E0dWgEEEtkQ-mStRMd)
-  - [[NhoNhanhTiengNhat] Ngữ pháp N3 Shinkanzen](https://www.youtube.com/playlist?list=PLe8rNdIbkIGgKL7q-ViPVFnUGDwk_hkL_)
-  - [[Riki] Học Từ Vựng Tiếng Nhật - Mimi Kara Oboeru N3](https://www.youtube.com/playlist?list=PLU2ApWp_eKA4CQiWIy09RBvR77djS7QVl)
-  - [[K Language] 1000 CÂU GIAO TIẾP N3](https://www.youtube.com/watch?v=iP2_5YjRG6M)
-  - [[Riki] BỨT PHÁ ĐỌC HIỂU N3 CÙNG MON SENSEI](https://www.youtube.com/playlist?list=PLP_AG3822jrllztbS_rGK_vuq70Ip6lJY)
-  - [[Riki] PHIÊU LƯU THẾ GIỚI TỪ VỰNG N3 CÙNG KWANG SS](https://www.youtube.com/playlist?list=PLP_AG3822jrnGODSlDC6qb3oSIPQ2DbHQ)
-  - [[Riki] Ngữ pháp N3 "Tưởng GIỐNG mà KHÁC"](https://www.youtube.com/playlist?list=PLP_AG3822jrmPm03hAIBBtKErwzdlQGx8)
-  - [[Riki] THỬ THÁCH 20 NGÀY N3 NÂNG CAO - 120 ĐIỂM THI JLPT](https://www.youtube.com/playlist?list=PLP_AG3822jrnImZ_C06WKSmUPskNpsy3S)
-- N2
-  - [[Riki] N2 Bunpou - Mimikara Oboeru](https://youtube.com/playlist?list=PLU2ApWp_eKA5dWA2FgRXf3g2AjxNKYpZi)
-  - [[日本語の森] N2文法 grammar VS](https://www.youtube.com/playlist?list=PLINFE8v4DOhvV5tJT77oF92vIwLLl6wAA)
+- [Let’s Talk in Japanese!](https://www.listennotes.com/vi/podcasts/lets-talk-in-japanese-tomo-D6QGPZMUOWr/)
 
 # Java
 - [Kteam - Lập trình JavaFX Cơ bản](https://www.howkteam.vn/course/lap-trinh-javafx-co-ban-43)
