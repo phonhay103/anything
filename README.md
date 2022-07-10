@@ -25,9 +25,6 @@
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
 
 # EDX
-- [HarvardX's Computer Science for Artificial Intelligence Professional Certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
-  1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-  2. [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - [BerkeleyX's Blockchain Fundamentals Professional Certificate](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
   1. [Bitcoin and Cryptocurrencies](https://www.edx.org/course/bitcoin-and-cryptocurrencies)
   2. [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
@@ -56,3 +53,6 @@
 # Ruby / Ruby on Rails
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [[freeCodeCamp]Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg)
+
+# Django
+- [Kteam - Lập trình web với Python bằng Django](https://howkteam.vn/course/lap-trinh-web-voi-python-bang-django-36)
